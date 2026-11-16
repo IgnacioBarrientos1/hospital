@@ -1,0 +1,13 @@
+{
+  "projectId": "72180935",
+  "functions": {
+    "seed-users": {
+      "hasChanged": false,
+      "hash": "5af0d2db404f3066e56e9fa3e34e9495697f22843618175a31a63fc63b3b406e"
+    },
+    "disable-hibp": {
+      "hasChanged": false,
+      "hash": "f67918cd3f2f819f9455c5c04789de519476ada5790e0e4749e9748d1d9019b3"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+project_id = "hqsbrfxcgzpsciuzhohf"
+
+[functions.seed-users]
+verify_jwt = false
+
+[functions.disable-hibp]
+verify_jwt = false
